@@ -26,7 +26,7 @@ include_once 'vendor/autoload.php';
 
 $numberValidateObj = new MobileNumberValidator();
 
-if($numberValidateObj->mobileValidatorFunction("0772846951"))
+if($numberValidateObj->mobileValidatorFunction("xxxxxxxxxx")) //xxxxxxxxxx - 10 digits mobile number
 
 {
 
