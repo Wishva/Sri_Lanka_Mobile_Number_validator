@@ -1,0 +1,11 @@
+{
+    "name": "wishva/sri_lanka_mobile_number_validator",
+    "description": "Used regular expression with PHP to validate the number. Take a look and you will understand",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MobileNumberValidation\\":"class/"
+        }
+    }
+}
