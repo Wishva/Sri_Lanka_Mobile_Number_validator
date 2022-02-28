@@ -10,7 +10,7 @@ used with PHP</p>
 
 <h5>Install this as a composer package 👇</h5>
 
-
+composer require wishva/sri_lanka_mobile_number_validator
 
 <h5>Sample code</h5>
 
